@@ -3,8 +3,6 @@
 #include <ArduinoHttpClient.h>
 #include <ArduinoLowPower.h>
 
-
-///////please enter your sensitive data in the Secret tab/arduino_secrets.h
 char ssid[] = "[SSID]";        // your network SSID (name)
 char pass[] = "[PASS]";    // your network password (use for WPA, or use as key for WEP)
 
